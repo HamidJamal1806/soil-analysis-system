@@ -2,7 +2,7 @@
 
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Research](https://img.shields.io/badge/Research-Paper-blue?style=for-the-badge)](./research-paper.pdf)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 
 ## 📋 Overview
 
